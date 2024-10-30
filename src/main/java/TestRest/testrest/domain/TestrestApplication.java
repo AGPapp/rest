@@ -15,6 +15,6 @@ public class TestrestApplication {
 
 	@RequestMapping("/")
 	String index(){
-		return "Привет!";
+		return "отличная идея!!!!!!!!!!!";
 	}
 }
